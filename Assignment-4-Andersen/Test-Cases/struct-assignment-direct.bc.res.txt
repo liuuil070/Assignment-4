@@ -1,0 +1,25 @@
+4 points to: {5, }
+7 points to: {8, }
+10 points to: {11, }
+12 points to: {13, }
+14 points to: {15, }
+16 points to: {17, }
+18 points to: {19, }
+27 points to: {65, }
+30 points to: {66, }
+35 points to: {36, }
+37 points to: {67, }
+38 points to: {17, }
+39 points to: {65, }
+40 points to: {17, }
+42 points to: {43, }
+45 points to: {46, }
+59 points to: {67, }
+60 points to: {65, }
+61 points to: {17, }
+62 points to: {68, }
+63 points to: {66, }
+64 points to: {}
+65 points to: {17, }
+66 points to: {}
+67 points to: {17, }
